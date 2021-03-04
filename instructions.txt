@@ -1,0 +1,29 @@
+
+run server:
+open a new terminal
+1. cd server
+2. npm install
+3. npm start
+
+*--
+[nodemon] 2.0.7
+[nodemon] to restart at any time, enter `rs`
+[nodemon] watching path(s): *.*
+[nodemon] watching extensions: js,mjs,json
+[nodemon] starting `node ./src/index.server.js`
+server is running on port 2020
+database connected
+--*
+this means run correctly.
+
+
+
+run client
+open a new terminal
+1. cd client
+2. npm install
+3. npm start
+
+
+if you could'n run the application either server or client. check the package.json in the folder and make sure you have the same 
+dependencies and versions.

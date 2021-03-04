@@ -1,0 +1,35 @@
+.online{
+    background-color: green;
+    border-color: black;
+    border:1px solid;
+    padding: 2px;
+    margin-left: 5px;
+}
+
+.online:hover{
+    cursor: pointer;
+}
+
+.offline{
+    background-color: red;
+    border-color: black;
+    border:1px solid;
+    padding: 2px;
+    margin-left: 5px;
+}
+
+.offline:hover{
+    cursor: pointer;
+}
+
+.in-use{
+    background-color: yellow;
+    border-color: black;
+    border:1px solid;
+    padding: 2px;
+    margin-left: 5px;
+}
+
+.in-use:hover{
+    cursor: pointer;
+}
